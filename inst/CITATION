@@ -1,0 +1,19 @@
+citHeader("To cite the JASPAR package in publications use:")
+
+citEntry(entry="article",
+  author   = "Xiaobei Zhao, et al.",
+  title    = "JASPAR 2013: An extensively expanded and updated open-access database of transcription factor binding profiles",
+  journal  = "TBA",
+  year     = 2013,
+  volume   = "TBA",
+  pages    = "TBA",
+  number   = "TBA",
+  url      = "TBA",
+  textVersion=
+    paste("Zhao et al (2013),",
+          "JASPAR 2013: An extensively expanded and updated open-access database of transcription factor binding profiles.", 
+          "(In preparation)",
+          sep=" ")
+)
+
+

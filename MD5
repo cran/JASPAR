@@ -1,0 +1,15 @@
+d955269e177f85e89dcfd44be8af5657 *DESCRIPTION
+aea4e2ef1eef9cc582d5a6d25ab6daab *NAMESPACE
+2e6e7c2b8bc9fb2de46c070fb5316e62 *NEWS
+0722f8ac5e63a93389ed4b856fb3c1e5 *R/JASPAR-internal.R
+b12218a8341a185bb7aa5af8dc66c357 *R/JASPAR-package.R
+e50832e2ce142cf6b5bf81559c213dc8 *R/hello.R
+1726dfbceedcf143be8d8a748cd2bce9 *R/make_template.R
+60cf8f69349b098506d92515cda0e93e *R/zzz.R
+e8b6ce711d2237d23f14ed419e4fe96c *demo/00Index
+0b94339bcb4ecc5c7770cbedd8e20dfd *demo/JASPAR-demo.R
+7e7b50941045304155932d3d164b9ab2 *inst/CITATION
+f23c60666a1beb644a9a72544d267c73 *man/JASPAR-package.Rd
+2ba2c8904716a366557e51f59b104bb1 *man/make_template.Rd
+f89bdfb033225ca9ab9006b0a2a3f202 *src/hello.c
+0b94339bcb4ecc5c7770cbedd8e20dfd *tests/JASPAR-demo.R

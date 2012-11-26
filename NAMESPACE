@@ -1,0 +1,3 @@
+useDynLib(JASPAR)
+
+export(make_template)
